@@ -1,5 +1,3 @@
-# enterprise-infrastructure-migration-case-study
-
 # Infrastructure Migration & Enterprise Architecture Case Study
 
 > A real-world infrastructure evolution project covering on-premises systems, legacy applications, Microsoft 365, Azure Active Directory, networking, VPN connectivity, development infrastructure and remote-work enablement.
